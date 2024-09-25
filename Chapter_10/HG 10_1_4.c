@@ -9,7 +9,7 @@ int main(void)
     printf("pa : %u\n", pa);
     printf("pb : %u\n", pb);
 
-    pa++;
+    pa++;   
     printf("pb -pa : %u\n", pb- pa);
 
     printf("앞에 있는 배열 요소의 값 출력 :");
